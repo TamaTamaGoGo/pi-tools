@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo -e "\033[1;31m pi-tool installation is starting\033[0;39m"
+pronum=0
+action=""
+
+sudo apt update
+
+action="Checking version"
+pronum=`echo $((pronum + 1))`
+echo -en "$returnval\r"
