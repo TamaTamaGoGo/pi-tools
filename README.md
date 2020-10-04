@@ -1,4 +1,4 @@
-# pi-tools
+# pi-tools manual
 ## English
 
 ## 日本語
